@@ -16,3 +16,7 @@ I also reckon' it'll be nice to have somewhere to leave clever snippets of code,
 
 
 Cheers!
+
+
+This site is built with Jekyll, and the Hydeout theme: Hydeout updates the original [Hyde](https://github.com/poole/hyde)
+theme for [Jekyll](http://jekyllrb.com) 3.x and adds new functionality. Cheers, [Andrew Fong](https://github.com/fongandrew/hydeout).
