@@ -22,6 +22,15 @@ author:
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email:
+  github: cbuhl
+  instagram: c.buhl
+  linkedin: cbuhl
+
+
 
 plugins:
   - jekyll-feed
