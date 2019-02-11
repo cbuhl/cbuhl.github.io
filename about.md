@@ -5,7 +5,9 @@ sidebar_link: true
 ---
 
 Hi!
-My name is Christian. I'm wrestling a phd in phsyics and enjoy sailing.
+My name is Christian. 
+
+I'm wrestling a phd in physics and enjoy sailing.
 
 I hope you'll find the content here interesting. 
 The purpose of this blog is to provide some longevity and documentation to a few of the ideas I come up with. I occasionally run into very nice examples of python code, that I will try to show as well.
